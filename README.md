@@ -107,9 +107,7 @@ Columns:
 
 ---
 
-## 📸 Screenshots
 
-(Add screenshots of your project here)
 
 ---
 
