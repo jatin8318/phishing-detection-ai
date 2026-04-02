@@ -108,13 +108,6 @@ Columns:
 ---
 
 
-
----
-
-## 🔗 GitHub Repository
-
-https://github.com/yourusername/phishing-detection-ai
-
 ---
 
 ## 🎯 Future Improvements
