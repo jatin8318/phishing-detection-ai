@@ -121,8 +121,7 @@ Columns:
 
 ## 👨‍💻 Author
 
-Your Name  
-(Your GitHub Profile Link)
+Navneet Yadav
 
 ---
 
